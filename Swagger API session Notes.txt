@@ -1,0 +1,42 @@
+
+Swagger
+
+Swagger is an open-source framework for designing and describing APIs. 
+Swagger’s journey started in 2010.
+It was developed by Reverb Technologies.  
+To solve the need for keeping the API design and documentation in sync. 
+Swagger has become the de-facto standard for designing and describing 
+RESTful APIs 
+It is used by millions of developers and organizations for developing 
+their APIs.
+It can be for internal or client facing.
+
+Why Swagger?
+
+Design and document APIs simultaneously, thus keeping the blueprint 
+and documentation in sync.
+
+Both human and machine readable, with an interactive API documentation 
+automatically generated to see the API in action.
+
+Large comprehensive tooling ecosystem around the framework, which lets us 
+go beyond just design, from SDK generation to testing and debugging.
+
+Strong open source community supporting and spearheading the framework.
+
+
+Creating an API
+The Swagger definition of an API can be 
+divided into 3 different sections –
+
+1) The Meta Information
+2) The Path Items:
+3) Reusable components:
+
+Swagger UI provides a display framework that reads an OpenAPI 
+specification document and generates an interactive documentation 
+website. 
+
+
+
+
